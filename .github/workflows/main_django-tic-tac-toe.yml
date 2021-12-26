@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Django-Tic-Tac-Toe'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C79E35733E9443FD9FDE285EC9006B25 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A6C01C9C442640D7AEF31BD385ED0EF7 }}
